@@ -53,7 +53,7 @@ for c in 'Conglatulations!'.upper():
 print()
 
 date = time.asctime()
-name = input('Enter your name: ').strip() or 'An unknown reader'
+name = 'Vladimir Sidorenko'
 sept = '*' * maxline
 book = 'Learning Python 5th Edition'
 
