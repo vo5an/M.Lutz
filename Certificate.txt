@@ -1,0 +1,26 @@
+
+************************************************************
+===> Official Certificate <===
+
+Date: Fri Sep 30 23:33:40 2022
+
+This certificates that:
+
+	Vladimir Sidorenko
+
+has survived the massive tome:
+
+	Learning Python 5th Edition
+
+and is now entitled to all privileges thereof, including
+the right to procces on to learning how to develop Web
+sites, desctop GUIs, scientific models, and assorted Apps,
+with the possible assistance of follow-up applications
+books such as Programming Python (shameless plug intended).
+
+-- Mark Lutz, Instructor
+
+(Note: certificate void where obtained by skipping ahead.)
+
+************************************************************
+
