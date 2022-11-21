@@ -95,13 +95,13 @@ if browser:
 
 if sys.platform.startswith('win'):
     input('[Press Enter]') # Оставить окно открытым при щелчке в Windows
-=======
+
 '''Файл certificate.py:сценарий на Python.
 Генерирует простой сертификат об окончании чтения: Выводит
 и сохраняет в текстовом и HTML-файле, отображаемом в веб-браузере.
 '''
 
-from __future__ import print_function
+
 import time, sys, webbrowser
 
 if sys.version_info[0] ==2:
